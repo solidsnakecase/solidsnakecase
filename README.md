@@ -11,6 +11,9 @@ My goal is to streamline my development processes and utilize Contiunuous Integr
 - 💞️ I’m looking to collaborate on: open-source projects
 - 📫 How to reach me: email // twitter
 
+To view my alternate InfoSec/ML focused GitHub, please visit @thi3ves
+
+##### Codewars Profile:
 <img src="https://www.codewars.com/users/msonke/badges/large">
 
 <!---
