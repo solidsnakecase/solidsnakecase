@@ -14,7 +14,7 @@ My goal is to streamline my development processes and utilize Contiunuous Integr
 To view my alternate InfoSec/ML focused GitHub, please visit [@thi3ves](https://github.com/thi3ves)
 
 ##### Codewars Profile:
-<img src="https://www.codewars.com/users/msonke/badges/large">
+[<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
 
 <!---
 msonke/msonke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
