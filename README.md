@@ -7,7 +7,7 @@ I'm currently focused on building a consistent workflow that will allow me to sp
 My goal is to streamline my development processes and utilize Contiunuous Integration // Continuous Deployment pipelines in order to provide effective, scaleable solutions while minimizing time spent on processes that are easily automated.
 
 - 👀 I’m interested in: CI/CD Pipelines to Automate Web Deployment
-- 🌱 I’m currently learning: Typescript
+- 🌱 I’m currently learning: Gin Framework
 - 💞️ I’m looking to collaborate on: open-source projects
 - 📫 How to reach me: email // twitter
 
