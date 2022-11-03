@@ -2,8 +2,8 @@
 
 Welcome to my Application Development focused GitHub.
 
-- 👀 I’m interested in: AWS Architecture
-- 🌱 I’m currently learning: Container Orchestration, Mobile
+- 👀 I’m interested in: Automation
+- 🌱 I’m currently learning: Mobile
 - 💞️ I’m looking to collaborate on: Open-Source Projects
 - 📫 How to reach me: email // twitter
 
