@@ -7,7 +7,7 @@ Welcome to my Application Development focused GitHub.
 - 💞️ I’m looking to collaborate on: Open-Source Projects
 - 📫 How to reach me: email // twitter
 
-To view my alternate InfoSec/ML focused GitHub, please visit [@viol3nthacks](https://github.com/viol3nthacks)
+To view my alternate Sec focused GitHub, please visit [@viol3nthacks](https://github.com/viol3nthacks)
 
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
