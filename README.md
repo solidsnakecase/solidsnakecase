@@ -9,9 +9,6 @@ Welcome to my Application Development focused GitHub.
 
 To view my alternate Sec focused GitHub, please visit [@viol3nthacks](https://github.com/viol3nthacks)
 
-*I don't always push code right away, since VSCode has Version Control as well and this is a public space. I also do Sec and Ops related tasks.
-Lack of GH Activity != Lack of Code
-
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
 
