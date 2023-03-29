@@ -1,6 +1,6 @@
 ### (Hello World!)
 
-Welcome to my Application Development focused GitHub.
+Welcome to my App Development focused GitHub.
 
 - 👀 I’m interested in: Typescript/Go/Rust
 - 🌱 I’m currently learning: DSA
