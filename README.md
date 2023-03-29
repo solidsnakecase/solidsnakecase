@@ -2,8 +2,8 @@
 
 Welcome to my Application Development focused GitHub.
 
-- 👀 I’m interested in: Archetecural Patterns, Cloud Automation
-- 🌱 I’m currently learning: Mobile
+- 👀 I’m interested in: Typescript/Go/Rust
+- 🌱 I’m currently learning: DSA
 - 💞️ I’m looking to collaborate on: Open-Source Projects
 - 📫 How to reach me: email // twitter
 
