@@ -2,7 +2,7 @@
 
 Welcome to my App Development focused GitHub.
 
-- 👀 I’m interested in: Typescript/Go/Rust
+- 👀 I’m interested in: Typescript/Dart/Go/Rust
 - 🌱 I’m currently learning: DSA
 - 💞️ I’m looking to collaborate on: Open-Source Projects
 - 📫 How to reach me: email // twitter
