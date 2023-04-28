@@ -1,11 +1,12 @@
-### (Hello World!)
+### (Hello World)
 
-Welcome to my App Development focused GitHub.
+Welcome to my GitHub.
 
-- 👀 I’m interested in: Typescript/Dart/Go/Rust
-- 🌱 I’m currently learning: DSA
+- 👀 I’m interested in: Typescript // Dart // Go
 - 💞️ I’m looking to collaborate on: Open-Source Projects
+
 - 📫 How to reach me: email // twitter
+
 
 To view my alternate Sec focused GitHub, please visit [@viol3nthacks](https://github.com/viol3nthacks)
 
