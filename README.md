@@ -8,8 +8,6 @@ Welcome to my GitHub.
 - 📫 How to reach me: email // twitter
 
 
-To view my alternate Sec focused GitHub, please visit [@viol3nthacks](https://github.com/viol3nthacks)
-
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
 
