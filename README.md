@@ -7,6 +7,8 @@ Welcome to my GitHub.
 
 - 📫 How to reach me: email // twitter
 
+You can find my Security focused Github here: @et3rn4ldr34d
+
 
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
