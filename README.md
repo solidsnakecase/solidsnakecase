@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-- 👀 I’m interested in: Typescript // Dart // Go
+- 👀 I’m interested in: Cloud Infrastructure // WASM
 - 💞️ I’m looking to collaborate on: Open-Source Projects
 
 - 📫 How to reach me: email // twitter
