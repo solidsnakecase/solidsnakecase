@@ -7,7 +7,7 @@ Welcome to my GitHub.
 
 - 📫 How to reach me: email // twitter
 
-You can find my Security focused Github here: @et3rn4ldr34d
+You can find my Security focused Github here: [@et3rn4ldr34d](https://github.com/et3rn4ldr34d)
 
 
 ##### Codewars Profile:
