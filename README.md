@@ -10,7 +10,7 @@ Welcome to my GitHub.
 You can find my Security focused Github here: [@et3rn4ldr34d](https://github.com/et3rn4ldr34d)
 
 ##### Leetcode Profile:
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=thi3ves)
+![](https://badges.peiyuan.ch/leetcode/thi3ves/name)
 
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
