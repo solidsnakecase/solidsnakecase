@@ -9,6 +9,8 @@ Welcome to my GitHub.
 
 You can find my Security focused Github here: [@et3rn4ldr34d](https://github.com/et3rn4ldr34d)
 
+##### Leetcode Profile:
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={thi3ves}" alt="LeetCode Badges"/>
 
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
