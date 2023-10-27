@@ -15,7 +15,9 @@ You can find my Security focused Github here: [@et3rn4ldr34d](https://github.com
 ##### Codewars Profile:
 [<img src="https://www.codewars.com/users/msonke/badges/large">](https://www.codewars.com/users/msonke)
 
+<!---
 ##### Latest Articles:
+--->
 
 <!---
 msonke/msonke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
