@@ -1,13 +1,24 @@
 ### (Hello World)
 
-Welcome to my GitHub.
+I hack and I know things.
 
-- 👀 I’m interested in: Cloud Infrastructure // WASM
-- 💞️ I’m looking to collaborate on: Open-Source Projects
+---
 
-- 📫 How to reach me: email // twitter
+I stopped using GitHub for anything other than open-source when they started using it for training Copilot.
 
-You can find my Security focused Github here: [@et3rn4ldr34d](https://github.com/et3rn4ldr34d)
+I do, however, run a blog on through GitHub Pages to help educate developers on security topics in what I hope is an easy to understand form.
+
+Advocate for Privacy Preserving AI/Regulation.  
+
+**FIAT is a scam.**
+
+---
+
+GCP Data Engineer Professional
+AWS Machine Learning Specialist
+AWS Security Specialist
+AWS Developer Associate
+Security+
 
 ##### Leetcode Profile:
 ![](https://badges.peiyuan.ch/leetcode/thi3ves/name)
