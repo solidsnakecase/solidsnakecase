@@ -10,7 +10,7 @@ I do, however, run a blog on through GitHub Pages to help educate developers on 
 
 Advocate for Privacy Preserving AI/Regulation.  
 
-**FIAT is a scam.**
+**₿**
 
 ---
 
