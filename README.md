@@ -19,8 +19,10 @@ Advocate for Privacy Preserving Machine Learning (PPML).
 
 ---
 
+<!---
 ##### Leetcode Profile:
-![](https://badges.peiyuan.ch/leetcode/thi3ves/name)
+--->
+
 
 ##### TryHackMe Profile:
 [<img src="https://tryhackme-badges.s3.amazonaws.com/viol3nt.png" alt="TryHackMe">](https://tryhackme.com/p/viol3nt)
