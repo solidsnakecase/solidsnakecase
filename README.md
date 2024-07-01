@@ -2,7 +2,7 @@
 
 ---
 
-I decided to stop using GitHub for anything other than private repos, open source and security when they started [using it for training Copilot](https://docs.github.com/en/copilot/copilot-individual/about-github-copilot-individual#will-my-private-code-be-shared-with-other-users).
+I decided to stop using GitHub for anything other than private repos, open source, and security when they started [using it for training Copilot](https://docs.github.com/en/copilot/copilot-individual/about-github-copilot-individual#will-my-private-code-be-shared-with-other-users).
 
 I created a blog on GitHub Pages to help educate developers on security topics in what I hope is an easy to understand form, using a blog generator I wrote in Rust. (Not open-source. Proprietary.)
 
