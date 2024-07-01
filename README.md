@@ -20,7 +20,7 @@ Did you know ChatGPT cannot correct errata?  [Misinformation is baked in](https:
 
 [Meta sells your data and likeness to law enforcement](https://www.theguardian.com/us-news/2022/aug/10/facebook-user-data-abortion-nebraska-police).  [Google tracks your data without proper consent](https://www.latimes.com/california/story/2023-09-14/google-to-pay-93-million-after-state-investigation-finds-company-used-location-data-without-consent).  [LinkedIn is the main culprit for the majority of social engineering attacks](https://www.secureworks.com/blog/social-engineering-tactics-why-linkedin-is-as-dangerous-as-it-is-useful).  [Everything you post online can be weaponized, even against kids](https://www.nbcnews.com/tech/security/hackers-are-leaking-childrens-data-s-little-parents-can-rcna1926).  [Regulation is decades behind](https://www.techtarget.com/searchcio/news/366557453/Lack-of-federal-data-privacy-law-seen-hurting-IT-security).  [Be careful](https://www.rapid7.com/globalassets/_pdfs/whitepaperguide/protecting-your-digital-life.pdf).
 
-[If you sell your open-source library, please require the name to be changed first to avoid inadvertantly aiding nation-state attacks](https://sansec.io/research/polyfill-supply-chain-attack).
+[If you sell your open-source library, please require the name to be changed first to avoid inadvertantly aiding nation-state attacks](https://sansec.io/research/polyfill-supply-chain-attack).  Seems like an easy fix to an emerging threat.
 
 You don't need more security engineers, [you need to hire actual software developers instead of letting AI put your business at risk](https://snyk.io/blog/copilot-amplifies-insecure-codebases-by-replicating-vulnerabilities/). [(Great bonus video)](https://www.youtube.com/watch?v=fi1FsDW1QeY)
 
