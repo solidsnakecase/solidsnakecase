@@ -31,10 +31,13 @@ Passionate [Elixir](https://hexdocs.pm/elixir/introduction.html) Fanatic. Truly 
 ##### Leetcode Profile:
 --->
 
-
-
 ##### TryHackMe Profile:
 [<img src="https://tryhackme-badges.s3.amazonaws.com/solidsnakecase.png?" alt="TryHackMe">](https://tryhackme.com/p/solidsnakecase)
+
+<!---
+##### Kaggle Profile:
+![solidsnakecase](https://road-to-kaggle-grandmaster.vercel.app/api/simple/solidsnakecase)
+--->
 
 <!---
 ##### Latest Articles:
